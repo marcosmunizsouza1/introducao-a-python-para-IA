@@ -1,8 +1,11 @@
 # 🤖 Plano de Ensino – Machine Learning e Deep Learning com Python
 
 **Carga horária sugerida:** 15 aulas
+
 **Público-alvo:** Iniciantes em Inteligência Artificial e Ciência de Dados
+
 **Pré-requisitos:** Lógica de Programação e Python básico
+
 **Ferramentas:** Google Colab, Pandas, NumPy, Scikit-Learn, TensorFlow/Keras
 
 ---
@@ -14,6 +17,8 @@ Compreender os fundamentos de Machine Learning e Deep Learning, desenvolvendo mo
 ---
 
 # 📚 Aula 01 – Introdução à Inteligência Artificial e Machine Learning
+
+🔗 Acesse: **[Aula 01](https://colab.research.google.com/drive/1umER-S8itZoiYQixt79R79bT9LVDys1L?usp=sharing)**
 
 ## Conteúdo
 
