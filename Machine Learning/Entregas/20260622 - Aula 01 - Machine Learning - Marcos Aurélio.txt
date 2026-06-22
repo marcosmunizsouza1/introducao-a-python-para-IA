@@ -5,7 +5,7 @@ R: É o aprendizado (treinamento) da inteligência Artificial.
 
 02) Explique a diferença entre: X e y
 R:O "X" representa as Features(entrada)
-  O "Y" representa as Target's (saídas)
+  O "y" representa as Target's (saídas)
 
 03) O que faz esta linha "import pandas as pd"?
 R: Importa a biblioteca pandas e atribui um apelido(Alias) para ela. Esse apelido serve com abreviação do nome para ser referenciada no momento do código.
